@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initial terminal text content
   var terminalTextContent = [
-      "User: unknown",
-      "IP: Loading...",
+      "User: admin",
+      "Pass: **********",
       "System: Loading...", // System information placeholder
       "Bio Loaded",
       "Press Enter To Continue",
@@ -208,13 +208,12 @@ document.addEventListener('DOMContentLoaded', function() {
   // Function to generate ASCII art
   function getAsciiArt() {
       return `
-    ███████╗██████╗ 
-    ██╔════╝╚════██╗
-    ███████╗ █████╔╝
-    ╚════██║██╔═══╝ 
-    ███████║███████╗
-    ╚══════╝╚══════╝
-                    
+ ▌ ▐·      ▄▄▄  ▄▄▄▄▄▄▄▄ .▐▄• ▄ 
+▪█·█▌ ▄█▀▄ ▀▄ █·•██  ▀▄.▀· █▌█▌▪
+▐█▐█•▐█▌.▐▌▐▀▀▄  ▐█.▪▐▀▀▪▄ ·██· 
+ ███ ▐█▌.▐▌▐█•█▌ ▐█▌·▐█▄▄▌▪▐█·█▌
+. ▀   ▀█▄▀▪.▀  ▀ ▀▀▀  ▀▀▀ •▀▀ ▀▀
+                
   `;
   }
 
