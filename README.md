@@ -1,2 +1,0 @@
-# Icy
-my bio
