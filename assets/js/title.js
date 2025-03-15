@@ -1,18 +1,18 @@
 // Array containing different titles to cycle through
 var titles = [
   "#",
-  "I#",
-  "Ic#",
-  "Icy#",
-  "Icy C#",
-  "Icy Ce#",
-  "Icy Cel#",
-  "Icy Cele#",
-  "Icy Celes#",
-  "Icy Celest#",
-  "Icy Celesti#",
-  "Icy Celestia#",
-  "Icy Celestial#"
+  "#I",
+  "#Ic",
+  "#Icy",
+  "#Icy C",
+  "#Icy Ce",
+  "#Icy Cel",
+  "#Icy Cele",
+  "#Icy Celes",
+  "#Icy Celest",
+  "#Icy Celesti",
+  "#Icy Celestia",
+  "#Icy Celestial"
 ];
 
 // Function to change the title periodically
